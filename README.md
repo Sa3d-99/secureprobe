@@ -1,4 +1,4 @@
-# ⚡ SecureProbe v2.0
+# ⚡ SecureProbe v1.0
 
 **A professional web security audit tool.** Scan your own web servers and applications for real security weaknesses across 16 modules — get color-coded terminal output or a full HTML report with a security score.
 
